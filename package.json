@@ -1,0 +1,24 @@
+{
+  "name": "dice-rpg-3d",
+  "version": "0.0.0",
+  "description": "DADOS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kamui9/DICE-RPG-3D.git"
+  },
+  "author": "DANIEL",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kamui9/DICE-RPG-3D/issues"
+  },
+  "homepage": "https://github.com/Kamui9/DICE-RPG-3D#readme",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
